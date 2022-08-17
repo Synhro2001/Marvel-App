@@ -18,7 +18,6 @@ class RandomChar extends Component{
        }
     }
 
-// Privet vadim
 
     marvelService = new MarvelService();
 
